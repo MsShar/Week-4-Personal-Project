@@ -1,0 +1,81 @@
+html {
+	background-color: silver;
+}
+
+ul {
+	padding-left: 0;
+	text-align: center;
+}
+
+
+h1 {
+
+ text-align: center;
+ font-size: 100px;
+ color: black;
+}
+
+
+h2 {
+
+	text-align: center;
+	font-size: 50px;
+}
+
+#wrapper {
+	width: 800px;
+	height:800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* class can be named anything*/
+#name {
+	width: 41%;
+	height: 70%;
+	background-color:gray;
+	margin-top: 20px;
+	float: left;
+	margin-left: 25px;
+	padding: 20px;
+}
+
+body {
+	padding: 30px 30px;
+	width: 1000px;
+	height: 1500px;
+	border: 5px solid black;
+	margin: auto; 
+	background-color: #AEEAFF;
+
+}
+img {
+
+	margin-left: auto;
+	display: block;
+	margin-right:auto;
+	/* enter image like this*/
+}
+iframe{
+	margin-top: 20px;
+	margin-left: auto;
+	display: block;
+	margin-right: auto;
+}
+
+.Hello{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	text-align: center;
+	padding:30px 30px;
+}
+
+li {
+
+	display: inline;
+	color: black;
+    padding: 10px;
+    background-color: #AEEAFF;
+	font-size: 50px;
+	margin: auto;
+}
